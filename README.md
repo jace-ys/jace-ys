@@ -10,7 +10,7 @@
 
 #### :hammer: &nbsp; My Time on GitHub
 
-[![stats](https://github-readme-stats.vercel.app/api?username=jace-ys&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jace-ys&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=reinforcement-learning&hide=css,html,makefile,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=jace-ys&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jace-ys&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=reinforcement-learning&hide=css,html,ejs,makefile,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :mag_right: &nbsp; Find Me On
 
