@@ -3,10 +3,10 @@
 #### :seedling: &nbsp; About Me
 
 - :house: &nbsp; From Singapore and currently based in London, UK
-- :computer: &nbsp; Currently working at Monzo Bank as a backend engineer on the Security Platform squad within the Platform collective
+- :computer: &nbsp; Currently working at [Duffel](https://duffel.com/) as a Site Reliability Engineer
 - :heart: &nbsp; Passionate about developer tooling, workflow automation, distributed systems, and cloud infrastructure
 - :camera: &nbsp; Avid travel and outdoor photographer that freelances on the side, capturing moments based around landscapes, lifestyle, and adventure
-- :rewind: &nbsp; Previously worked at GoCardless
+- :rewind: &nbsp; Previously worked at [Monzo Bank](https://monzo.com/) and [GoCardless](https://gocardless.com)
 
 #### :hammer: &nbsp; My Time on GitHub
 
