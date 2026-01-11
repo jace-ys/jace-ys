@@ -17,7 +17,7 @@
   <img height=195 align="center" src="./profile/top-langs.svg" />
 </a>
 
-#### 🔎 &nbsp;Connect
+#### 🔗 &nbsp;Connect
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaceystan)
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jaceyst_)
