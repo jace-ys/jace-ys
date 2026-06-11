@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jace Tan's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 83, Total Commits  : 1204, Total PRs: 135, Total Issues: 18, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 83, Total Commits  : 1199, Total PRs: 145, Total Issues: 18, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.81747004022453;
+        stroke-dashoffset: 77.62889784532358;
       }
     }
   
@@ -181,7 +181,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >135</text>
+      >145</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
