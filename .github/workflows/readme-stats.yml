@@ -11,15 +11,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=transparent&show_icons=true&hide_rank=true&include_all_commits=true
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=transparent&layout=compact&card_width=320&langs_count=10&exclude_repo=reinforcement-learning&hide=css,html,ejs,makefile,dockerfile
